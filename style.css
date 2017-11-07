@@ -41,10 +41,13 @@ header h3 a {
 }
 
 div.jumbotron {
-  background-color: #e9ecef;
-  text-align: center;
   border-radius: 5px;
+}
+
+div.jumbotron {
+  background-color: #e9ecef;
   padding: 10px;
+  text-align: center;
 }
 
 .jumbotron h1 {
